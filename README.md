@@ -1,4 +1,5 @@
 # Customer-Churn-prediction
+![0_d58iZ6esNNcfntQ7](https://user-images.githubusercontent.com/107294232/212125645-5784770b-a930-4edb-9d62-127e00765c44.jpg)
 
 For any business , Customer churn is one of the most crucial problem. 
 It is the rate at which clients opt out of purchasing more of a company’s product or services
